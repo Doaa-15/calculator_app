@@ -22,7 +22,11 @@ A ** Calculator** app that allows users to perform basic arithmetic operations a
 
 Check out the app in action:
 
-[!]
+[!
+
+https://github.com/user-attachments/assets/2b40ea51-7c70-45a4-8ef6-e575b69fdab9
+
+]
 
 
 
