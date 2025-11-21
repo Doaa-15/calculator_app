@@ -24,7 +24,7 @@ Check out the app in action:
 
 [!
 
-https://github.com/user-attachments/assets/2b40ea51-7c70-45a4-8ef6-e575b69fdab9
+https://github.com/user-attachments/assets/20af3d88-d9d5-4e31-8f57-86367555d505
 
 ]
 
